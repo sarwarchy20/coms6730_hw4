@@ -1,0 +1,961 @@
+ID,SentID,Span
+0,39,hereditary deficiency of the fifth component of complement
+1,602,Deficiency of the ninth component of human complement
+2,36,deficiency of the fifth component of complement
+3,108,autosomal recessive lysosomal storage disorder
+4,354,autosomal recessive lysosomal storage disorder
+5,691,autosomal recessive neurodegenerative disorder
+6,408,familial neurohypophyseal diabetes insipidus
+7,409,Familial neurohypophyseal diabetes insipidus
+8,859,hereditary nonpolyposis colorectal cancer
+9,443,attenuated adenomatous polyposis coli
+10,444,attenuated adenomatous polyposis coli
+11,933,hereditary breast and ovarian cancer
+12,344,idiopathic ventricular fibrillation
+13,346,idiopathic ventricular fibrillation
+14,887,Emery - Dreifuss muscular dystrophy
+15,888,Emery - Dreifuss muscular dystrophy
+16,377,familial breast and ovarian cancer
+17,444,familial adenomatous polyposis
+18,657,familial adenomatous polyposis
+19,697,breast and / or ovarian cancer
+20,703,cerebrotendinous xanthomatosis
+21,913,familial adenomatous polyposis
+22,674,Deficiency of arylsulfatase A
+23,40,systemic lupus erythematosus
+24,185,autosomal recessive syndrome
+25,493,autosomal recessive disorder
+26,673,metachromatic leukodystrophy
+27,674,metachromatic leukodystrophy
+28,712,autosomal recessive disorder
+29,847,metachromatic leukodystrophy
+30,505,Duchenne muscular dystrophy
+31,623,hypertrophic cardiomyopathy
+32,625,hypertrophic cardiomyopathy
+33,657,autosomal dominant disorder
+34,746,Duchenne muscular dystrophy
+35,747,Duchenne muscular dystrophy
+36,75,hereditary hemochromatosis
+37,263,hereditary hemochromatosis
+38,274,hereditary hemochromatosis
+39,389,hereditary hemochromatosis
+40,797,bipolar affective disorder
+41,913,adenomatous polyposis coli
+42,64,breast and ovarian cancer
+43,608,breast and ovarian cancer
+44,732,breast and ovarian cancer
+45,305,meningococcal meningitis
+46,336,Machado - Joseph disease
+47,369,urogenital abnormalities
+48,603,meningococcal meningitis
+49,0,ataxia - telangiectasia
+50,118,breast / ovarian cancer
+51,119,breast / ovarian cancer
+52,120,breast - ovarian cancer
+53,127,breast / ovarian cancer
+54,184,ataxia - telangiectasia
+55,247,ataxia - telangiectasia
+56,248,ataxia - telangiectasia
+57,249,cerebellar degeneration
+58,250,cerebellar degeneration
+59,324,breast - ovarian cancer
+60,383,breast / ovarian cancer
+61,463,Prader - Willi syndrome
+62,465,Prader - Willi syndrome
+63,470,ataxia - telangiectasia
+64,472,ataxia - telangiectasia
+65,545,Prader - Willi syndrome
+66,546,Prader - Willi syndrome
+67,711,ataxia - telangiectasia
+68,712,ataxia - telangiectasia
+69,733,breast / ovarian cancer
+70,745,breast / ovarian cancer
+71,51,ankylosing spondylitis
+72,52,ankylosing spondylitis
+73,178,Aspartylglucosaminuria
+74,179,Aspartylglucosaminuria
+75,213,sensorineural deafness
+76,367,Denys - Drash syndrome
+77,460,Denys - Drash syndrome
+78,562,neuromuscular disorder
+79,567,von Willebrand disease
+80,575,von Willebrand disease
+81,201,renal cell carcinomas
+82,367,pseudohermaphroditism
+83,460,pseudohermaphroditism
+84,509,adrenal insufficiency
+85,517,adrenal insufficiency
+86,519,hyperphenylalaninemia
+87,527,hyperphenylalaninemia
+88,602,complement deficiency
+89,773,complement deficiency
+90,49,bacterial infections
+91,312,congenital cataracts
+92,589,adrenoleukodystrophy
+93,590,adrenoleukodystrophy
+94,684,renal cell carcinoma
+95,146,Tay - Sachs disease
+96,201,von Hippel - Lindau
+97,450,colorectal adenomas
+98,483,Tay - Sachs disease
+99,639,colorectal adenomas
+100,641,colorectal adenomas
+101,644,colorectal adenomas
+102,680,von Hippel - Lindau
+103,681,von Hippel - Lindau
+104,12,Myotonic dystrophy
+105,13,Myotonic dystrophy
+106,86,diabetes insipidus
+107,100,Huntington disease
+108,101,Huntington disease
+109,170,myotonic dystrophy
+110,171,myotonic dystrophy
+111,175,myotonic dystrophy
+112,255,myotonic dystrophy
+113,256,myotonic dystrophy
+114,287,malignant melanoma
+115,401,myotonic dystrophy
+116,402,Myotonic dystrophy
+117,528,myotonic dystrophy
+118,529,myotonic dystrophy
+119,775,myotonic dystrophy
+120,776,myotonic dystrophy
+121,804,myotonic dystrophy
+122,805,Myotonic dystrophy
+123,900,inherited disorder
+124,85,inherited disease
+125,130,mentally retarded
+126,276,Angelman syndrome
+127,424,Angelman syndrome
+128,425,Angelman syndrome
+129,445,colorectal cancer
+130,504,skeletal myopathy
+131,519,allelic disorders
+132,638,colorectal tumors
+133,643,colorectal tumors
+134,647,colorectal cancer
+135,657,colorectal cancer
+136,664,Friedreich ataxia
+137,665,Friedreich ataxia
+138,690,diabetes mellitus
+139,756,colorectal cancer
+140,801,genetic disorders
+141,823,colorectal cancer
+142,824,colorectal cancer
+143,827,colorectal cancer
+144,829,colorectal cancer
+145,835,colorectal cancer
+146,912,colorectal cancer
+147,913,colorectal cancer
+148,915,colorectal cancer
+149,917,colorectal cancer
+150,924,colorectal cancer
+151,930,colorectal cancer
+152,931,colorectal cancer
+153,502,Pendred syndrome
+154,532,genetic diseases
+155,625,VLCAD deficiency
+156,626,VLCAD deficiency
+157,630,VLCAD deficiency
+158,690,Wolfram syndrome
+159,691,Wolfram syndrome
+160,922,colorectal tumor
+161,934,sporadic cancers
+162,96,prostate cancer
+163,388,hemochromatosis
+164,434,Hemochromatosis
+165,436,hemochromatosis
+166,519,Phenylketonuria
+167,545,Maternal disomy
+168,554,Maternal disomy
+169,815,hemochromatosis
+170,816,hemochromatosis
+171,820,hemochromatosis
+172,821,hemochromatosis
+173,822,hemochromatosis
+174,22,retinoblastoma
+175,35,retinoblastoma
+176,46,C5 - deficient
+177,108,genetic defect
+178,144,retinoblastoma
+179,312,Peters anomaly
+180,332,ovarian cancer
+181,354,genetic defect
+182,395,Wilson disease
+183,396,Wilson disease
+184,400,Wilson disease
+185,517,genetic defect
+186,538,retinoblastoma
+187,539,retinoblastoma
+188,567,von Willebrand
+189,578,ovarian cancer
+190,579,ovarian cancer
+191,584,ovarian cancer
+192,587,ovarian cancer
+193,588,ovarian cancer
+194,615,Peters anomaly
+195,630,cardiomyopathy
+196,740,ovarian cancer
+197,790,C6 - deficient
+198,901,Wilson disease
+199,45,C5 deficiency
+200,120,breast cancer
+201,192,breast cancer
+202,247,breast cancer
+203,250,breast cancer
+204,319,breast cancer
+205,320,Breast Cancer
+206,321,breast cancer
+207,331,breast cancer
+208,334,breast cancer
+209,421,hypertelorism
+210,456,Wilms ' tumor
+211,603,C9 deficiency
+212,606,C9 deficiency
+213,690,optic atrophy
+214,691,optic atrophy
+215,733,breast cancer
+216,742,breast cancer
+217,743,breast cancer
+218,745,breast cancer
+219,783,C6 deficiency
+220,792,C7 deficiency
+221,904,liver disease
+222,348,sudden death
+223,625,hepatomegaly
+224,367,Wilms tumor
+225,457,Wilms tumor
+226,806,infertility
+227,49,vasculitis
+228,211,piebaldism
+229,212,piebaldism
+230,213,piebaldism
+231,306,meningitis
+232,49,arthritis
+233,625,hypotonia
+234,639,carcinoma
+235,644,carcinoma
+236,647,carcinoma
+237,819,cirrhosis
+238,165,melanoma
+239,210,deafness
+240,247,leukemia
+241,247,lymphoma
+242,252,leukemia
+243,252,lymphoma
+244,312,aniridia
+245,313,aniridia
+246,451,adenomas
+247,559,myotonia
+248,615,aniridia
+249,617,Aniridia
+250,622,aniridia
+251,633,diabetes
+252,642,adenomas
+253,863,leukemia
+254,863,lymphoma
+255,865,aniridia
+256,866,aniridia
+257,867,aniridia
+258,868,aniridia
+259,869,aniridia
+260,929,adenomas
+261,10,tumours
+262,108,MPS IVA
+263,110,MPS IVA
+264,111,MPS IVA
+265,287,tumours
+266,354,MPS IVA
+267,355,MPS IVA
+268,356,MPS IVA
+269,509,obesity
+270,512,obesity
+271,513,obesity
+272,517,obesity
+273,658,tumours
+274,688,cancers
+275,930,adenoma
+276,2,cancer
+277,3,tumour
+278,8,tumour
+279,9,tumour
+280,10,tumour
+281,24,tumors
+282,26,tumors
+283,27,tumors
+284,28,tumors
+285,29,tumors
+286,30,tumors
+287,83,cancer
+288,93,cancer
+289,99,tumors
+290,186,cancer
+291,204,cancer
+292,285,tumour
+293,493,goiter
+294,543,tumors
+295,656,cancer
+296,658,tumour
+297,662,cancer
+298,689,cancer
+299,734,cancer
+300,758,cancer
+301,833,cancer
+302,921,cancer
+303,1,A - T
+304,2,A - T
+305,3,A - T
+306,4,A - T
+307,23,tumor
+308,64,tumor
+309,96,tumor
+310,154,tumor
+311,155,tumor
+312,185,A - T
+313,186,A - T
+314,187,A - T
+315,188,A - T
+316,189,A - T
+317,190,tumor
+318,192,A - T
+319,199,A - T
+320,208,tumor
+321,209,tumor
+322,248,A - T
+323,250,A - T
+324,252,A - T
+325,254,A - T
+326,444,tumor
+327,472,A - T
+328,473,A - T
+329,538,tumor
+330,696,tumor
+331,712,A - T
+332,713,A - T
+333,720,A - T
+334,724,A - T
+335,755,HNPCC
+336,336,SCA3
+337,343,SCA3
+338,409,FNDI
+339,410,FNDI
+340,414,FNDI
+341,444,AAPC
+342,446,AAPC
+343,447,AAPC
+344,452,AAPC
+345,454,AAPC
+346,664,FRDA
+347,665,FRDA
+348,798,BPAD
+349,799,BPAD
+350,800,BPAD
+351,801,BPAD
+352,803,BPAD
+353,888,EDMD
+354,893,EDMD
+355,895,EDMD
+356,898,EDMD
+357,46,C5D
+358,146,TSD
+359,150,TSD
+360,152,TSD
+361,153,TSD
+362,179,AGU
+363,181,AGU
+364,182,AGU
+365,201,VHL
+366,201,RCC
+367,202,VHL
+368,205,VHL
+369,206,VHL
+370,208,VHL
+371,209,VHL
+372,336,MJD
+373,346,IVF
+374,348,IVF
+375,350,IVF
+376,352,IVF
+377,367,DDS
+378,369,DDS
+379,372,DDS
+380,425,UPD
+381,444,FAP
+382,447,APC
+383,448,APC
+384,449,APC
+385,454,APC
+386,455,FAP
+387,465,PWS
+388,467,PWS
+389,468,PWS
+390,483,TSD
+391,488,TSD
+392,502,PDS
+393,503,DMD
+394,505,DMD
+395,506,DMD
+396,519,PKU
+397,519,MHP
+398,546,UPD
+399,546,PWS
+400,547,PWS
+401,548,PWS
+402,550,PWS
+403,556,PWS
+404,590,ALD
+405,592,ALD
+406,596,ALD
+407,599,ALD
+408,638,APC
+409,639,FAP
+410,639,APC
+411,640,APC
+412,641,FAP
+413,642,APC
+414,644,APC
+415,647,APC
+416,647,FAP
+417,655,PDS
+418,657,FAP
+419,659,APC
+420,674,MLD
+421,675,MLD
+422,676,MLD
+423,679,MLD
+424,681,VHL
+425,684,VHL
+426,686,VHL
+427,703,CTX
+428,747,DMD
+429,748,DMD
+430,753,DMD
+431,835,APC
+432,848,MLD
+433,854,MLD
+434,855,MLD
+435,912,APC
+436,912,FAP
+437,913,FAP
+438,913,APC
+439,914,APC
+440,915,APC
+441,915,FAP
+442,918,FAP
+443,920,APC
+444,920,FAP
+445,921,APC
+446,922,APC
+447,923,APC
+448,924,APC
+449,925,APC
+450,929,APC
+451,930,APC
+452,13,DM
+453,52,AS
+454,53,AS
+455,56,AS
+456,61,AS
+457,62,AS
+458,75,HH
+459,83,HH
+460,101,HD
+461,103,HD
+462,129,DM
+463,132,DM
+464,133,DM
+465,136,DM
+466,138,DM
+467,171,DM
+468,172,DM
+469,175,DM
+470,367,WT
+471,369,WT
+472,402,DM
+473,403,DM
+474,406,DM
+475,407,DM
+476,425,AS
+477,427,AS
+478,431,AS
+479,529,DM
+480,532,DM
+481,533,DM
+482,535,DM
+483,776,DM
+484,777,DM
+485,778,DM
+486,779,DM
+487,780,DM
+488,782,DM
+489,805,DM
+490,806,DM
+491,807,DM
+492,808,DM
+493,39,hereditary deficiency of the fifth component of complement
+494,602,Deficiency of the ninth component of human complement
+495,36,deficiency of the fifth component of complement
+496,108,autosomal recessive lysosomal storage disorder
+497,354,autosomal recessive lysosomal storage disorder
+498,691,autosomal recessive neurodegenerative disorder
+499,408,familial neurohypophyseal diabetes insipidus
+500,409,Familial neurohypophyseal diabetes insipidus
+501,859,hereditary nonpolyposis colorectal cancer
+502,443,attenuated adenomatous polyposis coli
+503,444,attenuated adenomatous polyposis coli
+504,933,hereditary breast and ovarian cancer
+505,344,idiopathic ventricular fibrillation
+506,346,idiopathic ventricular fibrillation
+507,887,Emery - Dreifuss muscular dystrophy
+508,888,Emery - Dreifuss muscular dystrophy
+509,377,familial breast and ovarian cancer
+510,444,familial adenomatous polyposis
+511,657,familial adenomatous polyposis
+512,697,breast and / or ovarian cancer
+513,703,cerebrotendinous xanthomatosis
+514,913,familial adenomatous polyposis
+515,674,Deficiency of arylsulfatase A
+516,40,systemic lupus erythematosus
+517,185,autosomal recessive syndrome
+518,493,autosomal recessive disorder
+519,673,metachromatic leukodystrophy
+520,674,metachromatic leukodystrophy
+521,712,autosomal recessive disorder
+522,847,metachromatic leukodystrophy
+523,505,Duchenne muscular dystrophy
+524,623,hypertrophic cardiomyopathy
+525,625,hypertrophic cardiomyopathy
+526,657,autosomal dominant disorder
+527,746,Duchenne muscular dystrophy
+528,747,Duchenne muscular dystrophy
+529,75,hereditary hemochromatosis
+530,263,hereditary hemochromatosis
+531,274,hereditary hemochromatosis
+532,389,hereditary hemochromatosis
+533,797,bipolar affective disorder
+534,913,adenomatous polyposis coli
+535,64,breast and ovarian cancer
+536,608,breast and ovarian cancer
+537,732,breast and ovarian cancer
+538,305,meningococcal meningitis
+539,336,Machado - Joseph disease
+540,369,urogenital abnormalities
+541,603,meningococcal meningitis
+542,0,ataxia - telangiectasia
+543,118,breast / ovarian cancer
+544,119,breast / ovarian cancer
+545,120,breast - ovarian cancer
+546,127,breast / ovarian cancer
+547,184,ataxia - telangiectasia
+548,247,ataxia - telangiectasia
+549,248,ataxia - telangiectasia
+550,249,cerebellar degeneration
+551,250,cerebellar degeneration
+552,324,breast - ovarian cancer
+553,383,breast / ovarian cancer
+554,463,Prader - Willi syndrome
+555,465,Prader - Willi syndrome
+556,470,ataxia - telangiectasia
+557,472,ataxia - telangiectasia
+558,545,Prader - Willi syndrome
+559,546,Prader - Willi syndrome
+560,711,ataxia - telangiectasia
+561,712,ataxia - telangiectasia
+562,733,breast / ovarian cancer
+563,745,breast / ovarian cancer
+564,51,ankylosing spondylitis
+565,52,ankylosing spondylitis
+566,178,Aspartylglucosaminuria
+567,179,Aspartylglucosaminuria
+568,213,sensorineural deafness
+569,367,Denys - Drash syndrome
+570,460,Denys - Drash syndrome
+571,562,neuromuscular disorder
+572,567,von Willebrand disease
+573,575,von Willebrand disease
+574,201,renal cell carcinomas
+575,367,pseudohermaphroditism
+576,460,pseudohermaphroditism
+577,509,adrenal insufficiency
+578,517,adrenal insufficiency
+579,519,hyperphenylalaninemia
+580,527,hyperphenylalaninemia
+581,602,complement deficiency
+582,773,complement deficiency
+583,49,bacterial infections
+584,312,congenital cataracts
+585,589,adrenoleukodystrophy
+586,590,adrenoleukodystrophy
+587,684,renal cell carcinoma
+588,146,Tay - Sachs disease
+589,201,von Hippel - Lindau
+590,450,colorectal adenomas
+591,483,Tay - Sachs disease
+592,639,colorectal adenomas
+593,641,colorectal adenomas
+594,644,colorectal adenomas
+595,680,von Hippel - Lindau
+596,681,von Hippel - Lindau
+597,12,Myotonic dystrophy
+598,13,Myotonic dystrophy
+599,86,diabetes insipidus
+600,100,Huntington disease
+601,101,Huntington disease
+602,170,myotonic dystrophy
+603,171,myotonic dystrophy
+604,175,myotonic dystrophy
+605,255,myotonic dystrophy
+606,256,myotonic dystrophy
+607,287,malignant melanoma
+608,401,myotonic dystrophy
+609,402,Myotonic dystrophy
+610,528,myotonic dystrophy
+611,529,myotonic dystrophy
+612,775,myotonic dystrophy
+613,776,myotonic dystrophy
+614,804,myotonic dystrophy
+615,805,Myotonic dystrophy
+616,900,inherited disorder
+617,85,inherited disease
+618,130,mentally retarded
+619,276,Angelman syndrome
+620,424,Angelman syndrome
+621,425,Angelman syndrome
+622,445,colorectal cancer
+623,504,skeletal myopathy
+624,519,allelic disorders
+625,638,colorectal tumors
+626,643,colorectal tumors
+627,647,colorectal cancer
+628,657,colorectal cancer
+629,664,Friedreich ataxia
+630,665,Friedreich ataxia
+631,690,diabetes mellitus
+632,756,colorectal cancer
+633,801,genetic disorders
+634,823,colorectal cancer
+635,824,colorectal cancer
+636,827,colorectal cancer
+637,829,colorectal cancer
+638,835,colorectal cancer
+639,912,colorectal cancer
+640,913,colorectal cancer
+641,915,colorectal cancer
+642,917,colorectal cancer
+643,924,colorectal cancer
+644,930,colorectal cancer
+645,931,colorectal cancer
+646,502,Pendred syndrome
+647,532,genetic diseases
+648,625,VLCAD deficiency
+649,626,VLCAD deficiency
+650,630,VLCAD deficiency
+651,690,Wolfram syndrome
+652,691,Wolfram syndrome
+653,922,colorectal tumor
+654,934,sporadic cancers
+655,96,prostate cancer
+656,388,hemochromatosis
+657,434,Hemochromatosis
+658,436,hemochromatosis
+659,519,Phenylketonuria
+660,545,Maternal disomy
+661,554,Maternal disomy
+662,815,hemochromatosis
+663,816,hemochromatosis
+664,820,hemochromatosis
+665,821,hemochromatosis
+666,822,hemochromatosis
+667,22,retinoblastoma
+668,35,retinoblastoma
+669,46,C5 - deficient
+670,108,genetic defect
+671,144,retinoblastoma
+672,312,Peters anomaly
+673,332,ovarian cancer
+674,354,genetic defect
+675,395,Wilson disease
+676,396,Wilson disease
+677,400,Wilson disease
+678,517,genetic defect
+679,538,retinoblastoma
+680,539,retinoblastoma
+681,567,von Willebrand
+682,578,ovarian cancer
+683,579,ovarian cancer
+684,584,ovarian cancer
+685,587,ovarian cancer
+686,588,ovarian cancer
+687,615,Peters anomaly
+688,630,cardiomyopathy
+689,740,ovarian cancer
+690,790,C6 - deficient
+691,901,Wilson disease
+692,45,C5 deficiency
+693,120,breast cancer
+694,192,breast cancer
+695,247,breast cancer
+696,250,breast cancer
+697,319,breast cancer
+698,320,Breast Cancer
+699,321,breast cancer
+700,331,breast cancer
+701,334,breast cancer
+702,421,hypertelorism
+703,456,Wilms ' tumor
+704,603,C9 deficiency
+705,606,C9 deficiency
+706,690,optic atrophy
+707,691,optic atrophy
+708,733,breast cancer
+709,742,breast cancer
+710,743,breast cancer
+711,745,breast cancer
+712,783,C6 deficiency
+713,792,C7 deficiency
+714,904,liver disease
+715,348,sudden death
+716,625,hepatomegaly
+717,367,Wilms tumor
+718,457,Wilms tumor
+719,806,infertility
+720,49,vasculitis
+721,211,piebaldism
+722,212,piebaldism
+723,213,piebaldism
+724,306,meningitis
+725,49,arthritis
+726,625,hypotonia
+727,639,carcinoma
+728,644,carcinoma
+729,647,carcinoma
+730,819,cirrhosis
+731,165,melanoma
+732,210,deafness
+733,247,leukemia
+734,247,lymphoma
+735,252,leukemia
+736,252,lymphoma
+737,312,aniridia
+738,313,aniridia
+739,451,adenomas
+740,559,myotonia
+741,615,aniridia
+742,617,Aniridia
+743,622,aniridia
+744,633,diabetes
+745,642,adenomas
+746,863,leukemia
+747,863,lymphoma
+748,865,aniridia
+749,866,aniridia
+750,867,aniridia
+751,868,aniridia
+752,869,aniridia
+753,929,adenomas
+754,10,tumours
+755,108,MPS IVA
+756,110,MPS IVA
+757,111,MPS IVA
+758,287,tumours
+759,354,MPS IVA
+760,355,MPS IVA
+761,356,MPS IVA
+762,509,obesity
+763,512,obesity
+764,513,obesity
+765,517,obesity
+766,658,tumours
+767,688,cancers
+768,930,adenoma
+769,2,cancer
+770,3,tumour
+771,8,tumour
+772,9,tumour
+773,10,tumour
+774,24,tumors
+775,26,tumors
+776,27,tumors
+777,28,tumors
+778,29,tumors
+779,30,tumors
+780,83,cancer
+781,93,cancer
+782,99,tumors
+783,186,cancer
+784,204,cancer
+785,285,tumour
+786,493,goiter
+787,543,tumors
+788,656,cancer
+789,658,tumour
+790,662,cancer
+791,689,cancer
+792,734,cancer
+793,758,cancer
+794,833,cancer
+795,921,cancer
+796,1,A - T
+797,2,A - T
+798,3,A - T
+799,4,A - T
+800,23,tumor
+801,64,tumor
+802,96,tumor
+803,154,tumor
+804,155,tumor
+805,185,A - T
+806,186,A - T
+807,187,A - T
+808,188,A - T
+809,189,A - T
+810,190,tumor
+811,192,A - T
+812,199,A - T
+813,208,tumor
+814,209,tumor
+815,248,A - T
+816,250,A - T
+817,252,A - T
+818,254,A - T
+819,444,tumor
+820,472,A - T
+821,473,A - T
+822,538,tumor
+823,696,tumor
+824,712,A - T
+825,713,A - T
+826,720,A - T
+827,724,A - T
+828,755,HNPCC
+829,336,SCA3
+830,343,SCA3
+831,409,FNDI
+832,410,FNDI
+833,414,FNDI
+834,444,AAPC
+835,446,AAPC
+836,447,AAPC
+837,452,AAPC
+838,454,AAPC
+839,664,FRDA
+840,665,FRDA
+841,798,BPAD
+842,799,BPAD
+843,800,BPAD
+844,801,BPAD
+845,803,BPAD
+846,888,EDMD
+847,893,EDMD
+848,895,EDMD
+849,898,EDMD
+850,46,C5D
+851,146,TSD
+852,150,TSD
+853,152,TSD
+854,153,TSD
+855,179,AGU
+856,181,AGU
+857,182,AGU
+858,201,VHL
+859,201,RCC
+860,202,VHL
+861,205,VHL
+862,206,VHL
+863,208,VHL
+864,209,VHL
+865,336,MJD
+866,346,IVF
+867,348,IVF
+868,350,IVF
+869,352,IVF
+870,367,DDS
+871,369,DDS
+872,372,DDS
+873,425,UPD
+874,444,FAP
+875,447,APC
+876,448,APC
+877,449,APC
+878,454,APC
+879,455,FAP
+880,465,PWS
+881,467,PWS
+882,468,PWS
+883,483,TSD
+884,488,TSD
+885,502,PDS
+886,503,DMD
+887,505,DMD
+888,506,DMD
+889,519,PKU
+890,519,MHP
+891,546,UPD
+892,546,PWS
+893,547,PWS
+894,548,PWS
+895,550,PWS
+896,556,PWS
+897,590,ALD
+898,592,ALD
+899,596,ALD
+900,599,ALD
+901,638,APC
+902,639,FAP
+903,639,APC
+904,640,APC
+905,641,FAP
+906,642,APC
+907,644,APC
+908,647,APC
+909,647,FAP
+910,655,PDS
+911,657,FAP
+912,659,APC
+913,674,MLD
+914,675,MLD
+915,676,MLD
+916,679,MLD
+917,681,VHL
+918,684,VHL
+919,686,VHL
+920,703,CTX
+921,747,DMD
+922,748,DMD
+923,753,DMD
+924,835,APC
+925,848,MLD
+926,854,MLD
+927,855,MLD
+928,912,APC
+929,912,FAP
+930,913,FAP
+931,913,APC
+932,914,APC
+933,915,APC
+934,915,FAP
+935,918,FAP
+936,920,APC
+937,920,FAP
+938,921,APC
+939,922,APC
+940,923,APC
+941,924,APC
+942,925,APC
+943,929,APC
+944,930,APC
+945,13,DM
+946,52,AS
+947,53,AS
+948,56,AS
+949,61,AS
+950,62,AS
+951,75,HH
+952,83,HH
+953,101,HD
+954,103,HD
+955,129,DM
+956,132,DM
+957,133,DM
+958,136,DM
+959,138,DM
